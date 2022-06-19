@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 6607cb0542720454eb541493c7a59c6f
+  - enabled: 1
+    path: Assets/Animacion inicio/Scenes/SampleScene.unity
+    guid: 7916556358b658544a50440c405bc12e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 22c4e05e737fcac499037992118d7a02
+  - enabled: 1
+    path: Assets/Scenes/PlayaBosque.unity
+    guid: 1ed0c99bbc0eb9b4a83e893844906344
+  - enabled: 1
+    path: Assets/Scenes/Mapamundi.unity
+    guid: 7212ba6bf5fb5c34a8fc7683dfe3484a
+  - enabled: 1
+    path: Assets/Scenes/Neu.unity
+    guid: d669c550843f741f2a5a348702a14da3
+  - enabled: 1
+    path: Assets/Scenes/interior.unity
+    guid: 8749f3bfd8f908c42882fae08ead0c6c
+  - enabled: 1
+    path: Assets/Scenes/VOLCAN.unity
+    guid: 7697eb968ba261e46b32e613568008ae
+  - enabled: 1
+    path: Assets/Scenes/IslaVolcan.unity
+    guid: 75e2d887770b4ce49ae2fc23ca43aa82
+  - enabled: 1
+    path: Assets/Scenes/IllaBosc.unity
+    guid: 322c7933358575b458f5ad3956bdc31c
+  - enabled: 1
+    path: Assets/Scenes/IllaBosc_InteriorArbre.unity
+    guid: dd6f80bf4170faa408d4911dc20fc81b
+  - enabled: 1
+    path: Assets/Scenes/MapaJuego.unity
+    guid: a8706f01368a08345a4b4a9712fad686
+  - enabled: 1
+    path: Assets/Animacion inicio/Scenes/CreditosFinales.unity
+    guid: 933124c7cc36d764eb574d38b64c2ea9
+  m_configObjects: {}
