@@ -48,14 +48,9 @@ ExportedObj/
 *.VC.db
 
 # Unity3D generated meta files
-*/[Aa]ssets/.pidb.meta
-*/[Aa]ssets/.pdb.meta
-*/[Aa]ssets/.mdb.meta
-*/[Aa]ssets/.fbx.meta
-*/[Aa]ssets/.png.meta
-*/[Aa]ssets/.asset.meta
-*/[Aa]ssets/.terrainlayer.meta
-*/[Aa]ssets/.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
