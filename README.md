@@ -1,4 +1,7 @@
 # Essence-v1.0
- 
+#
+# En el link se puede descargar la build.
+# Debido al peso de la misma no se puede jugar en la web.
+#
 # Build link: 
-# https://mega.nz/file/SSgh1BaB#YnoueJQVtYbil6LYVd-adx18fh4uV08OZCyD6az2RA8
+# https://josvilg.itch.io/essence
