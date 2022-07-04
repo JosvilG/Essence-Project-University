@@ -16,18 +16,18 @@ Tried to fix and organize files, but when doing this update, all files within Un
 
 ## Project objectives
 
-* Random drop system
-* Combat system
-* Sound effects and sound system
-* Cinematic creation and implementation
-* Creation of menus and HUD
-* Random combat mechanics in the final boss
-* Dynamic camera with Cinemachine
-* Puzzles and collectibles
-* Open world
-* Different biomes
-* Save system
-* Basic tutorial of the game.
+* Random drop system ✔
+* Combat system ✔
+* Sound effects and sound system ✔
+* Cinematic creation and implementation ✔
+* Creation of menus and HUD ✔
+* Random combat mechanics in the final boss ✔ 
+* Dynamic camera with Cinemachine ✔
+* Puzzles and collectibles ✔
+* Open world ✔
+* Different biomes ✔
+* Save system ✔
+* Basic tutorial of the game ✔
 
 ## Technologies
 Project is created with:
